@@ -1,12 +1,12 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "Point"
+mainClassName = "FirstProgramm"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation 'org.testng:testng:6.9.4'
+    compile 'org.testng:testng:6.9.4'
 }
 //my.pkg.MyClass
