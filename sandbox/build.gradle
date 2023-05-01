@@ -9,4 +9,3 @@ repositories {
 dependencies {
     compile 'org.testng:testng:6.9.4'
 }
-//my.pkg.MyClass
